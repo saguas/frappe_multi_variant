@@ -1,0 +1,14 @@
+{
+	"js/patch_refresh.js": [
+		"public/js/patch_refresh.js"
+	],
+	"css/slickgrid_editors.css": [
+		"public/js/Slick/controls/slick.columnpicker.css"
+	],
+	"js/slickgrid_editors.min.js": [
+		"/vagrant/frappe-bench/apps/frappe/frappe/public/js/lib/slickgrid/slick.editors.js",
+		"/vagrant/frappe-bench/apps/frappe/frappe/public/js/lib/slickgrid/plugins/slick.checkboxselectcolumn.js",
+		"/vagrant/frappe-bench/apps/frappe/frappe/public/js/lib/slickgrid/plugins/slick.rowselectionmodel.js",
+		"public/js/Slick/controls/slick.columnpicker.js"
+	]
+}
